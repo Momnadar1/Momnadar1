@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Momna Dar
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps and Backend Development
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on MERN and Python Django Stack 
 - 📫 How to reach me 'khanmomna1@gmail.com'
 
 <!---
