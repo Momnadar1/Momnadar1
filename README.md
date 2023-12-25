@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Momna Dar
-- 👀 I’m interested in Engineerig
-- 🌱 I’m currently learning Warehouse Engineerig
+- 👀 I’m interested in Software Engineerig
+- 🌱 I’m currently learning MERN Engineerig
 - 💞️ I’m looking to collaborate on Software Engineerig Stack 
 - 📫 How to reach me 'khanmomna1@gmail.com'
 
