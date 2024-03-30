@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Momna Dar
-- 👀 I’m interested in Software Engineerig
-- 🌱 I’m currently learning MERN Engineerig
-- 💞️ I’m looking to collaborate on Software Engineerig Stack 
+- 👋 Hi, I’m Momna
+- 💞️ I like to work on LLM 
 - 📫 How to reach me 'khanmomna1@gmail.com'
 
 <!---
