@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Momna
-- 💞️ I like to work on Large Models
+- 😁 I like to work on Large Models
 - 📫 How to reach me 'khanmomna1@gmail.com'
 
 <!---
